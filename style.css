@@ -4,7 +4,7 @@ body{
 }
 
 h1{
-	color:yellow;
+	color:#BD8F15;
 	font-size: large;
 	font-weight: bolder;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -18,47 +18,43 @@ footer{
 }
 
 .card{
-	background-color: wheat;
-	box-shadow: 5px 5px darkgoldenrod;
-	margin: 20px;
+	background-color: #FFC90E;
+	box-shadow: 10px 10px #362A03;
+	margin: 40px 20px 40px 20px;
 	padding: 20px;
 	border-radius: 5px;
-	color: brown;
-	text-shadow: 2px 2px gold;
+	color: #7A6007;
+	text-shadow: 2px 2px #362A03;
 	font-size: 50pt;
 	font-weight: bolder;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+max-width: 100%;
+height: auto;
 }
 
 @media (max-width: 768px) {
-  h1 {
-    font-size: 1.5rem;
-  }
-  .card {
-    font-size: 1.2rem;
-    padding: 15px;
-    margin: 10px;
-  }
-  footer {
-    font-size: 0.6rem;
-  }
+h1 {
+font-size: 1.5rem;
+}
+.card {
+font-size: 1.2rem;
+padding: 15px;
+margin: 10px;
+}
+footer {
+font-size: 0.6rem;
+}
 }
 
 @media (max-width: 480px) {
-  h1 {
-    font-size: 1.2rem;
-  }
-  .card {
-    font-size: 1rem;
-    padding: 10px;
-  }
+h1 {
+font-size: 1.2rem;
 }
-
-
-
-
+.card {
+font-size: 1rem;
+padding: 10px;
+}
+}
