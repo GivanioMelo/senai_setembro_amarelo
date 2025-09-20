@@ -1,5 +1,5 @@
 body{
-	background-color: wheat;
+	background-color: #FFFF77;
 	text-align: center;
 }
 
@@ -25,9 +25,8 @@ footer{
 	border-radius: 5px;
 	color: brown;
 	text-shadow: 2px 2px gold;
-	font-size: xx-large;
+	font-size: 50pt;
 	font-weight: bolder;
-	max-width: 600px;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
